@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nhutduong.com">Website</a> •
-  <a href="https://twitter.com/nhutdm">Twitter</a> •
+  <a href="https://x.com/nhutdm">X</a> •
   <a href="https://www.linkedin.com/in/nhutdm/">LinkedIn</a>
 </p>
 
